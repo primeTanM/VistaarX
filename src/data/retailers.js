@@ -36,7 +36,7 @@ export const retailerData = [
       },
       {
         id: 6,
-        avatar: "https://img.icons8.com/external-linector-flat-linector/2x/external-avatar-man-avatar-linector-flat-linector-6.png",
+        avatar: "https://img.icons8.com/external-linector-lineal-color-linector/2x/external-avatar-man-avatar-linector-lineal-color-linector-6.png",
         name: "D",
         company: "DEF",
         connections: 934
@@ -50,21 +50,21 @@ export const retailerData = [
       },
       {
         id: 8,
-        avatar: "https://img.icons8.com/external-wanicon-lineal-color-wanicon/2x/external-avatar-professions-avatar-wanicon-lineal-color-wanicon-15.png",
+        avatar: "https://img.icons8.com/external-linector-lineal-color-linector/2x/external-avatar-man-avatar-linector-lineal-color-linector-1.png",
         name: "F",
         company: "FGH",
         connections: 345
       },
       {
         id: 9,
-        avatar: "https://img.icons8.com/external-wanicon-flat-wanicon/2x/external-avatar-professions-avatar-wanicon-flat-wanicon-15.png",
+        avatar: "https://img.icons8.com/plasticine/2x/rick-sanchez.png",
         name: "G",
         company: "GHI",
         connections: 453
       },
       {
         id: 10,
-        avatar: "https://img.icons8.com/external-wanicon-lineal-color-wanicon/2x/external-avatar-professions-avatar-wanicon-lineal-color-wanicon-17.png",
+        avatar: "https://img.icons8.com/external-ddara-lineal-color-ddara/2x/external-imam-religious-leader-muslim-islam-character-user-avatar-islam-ddara-lineal-color-ddara.png",
         name: "H",
         company: "HIJ",
         connections: 745

@@ -11,7 +11,12 @@ function App() {
 
   return (
     <div className="container">
-      <Cards cards={cards} onDelete = { deleteCard }/>
+      {cards.length > 0 ? (
+        <Cards cards={cards} onDelete = { deleteCard }/>
+      ) : (
+        <div className="no-suggestions">No More Suggestions</div>
+      )}
+      
     </div>
   );
 }

@@ -2,6 +2,8 @@
 
 ## TASK FOR FRONTEND INTERNS
 
+### Project Link : https://vistaar-x-nwq9m9zce-primetanm.vercel.app/
+
 Hardcode 10 ‘retailers’ objects in a json file to use it in your React App. Your React App should have the following functionalities:
 
 - Implement the ‘More Suggestions for you’ section in the image below. It should take 8 retailers objects from the json file and display them

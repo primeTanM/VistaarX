@@ -2,7 +2,7 @@
 
 ## TASK FOR FRONTEND INTERNS
 
-### Project Link : https://vistaar-x-nwq9m9zce-primetanm.vercel.app/
+### Project Link :  https://vistaar-x.vercel.app/
 
 Hardcode 10 ‘retailers’ objects in a json file to use it in your React App. Your React App should have the following functionalities:
 
